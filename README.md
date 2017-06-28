@@ -1,1 +1,1 @@
-jaxascript基础
+first javascript file
